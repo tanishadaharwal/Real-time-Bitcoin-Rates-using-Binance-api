@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanishadaharwal, caall me Tanisha :)
+- 👋 Hi, I’m @tanishadaharwal, you can call me Tanisha :)
 - 👀 I’m interested in Computer Science and Programming :)
 - 🌱 I’m currently learning the C language with focus on DSA :)
 - 💞️ I’m looking to collaborate on interesting real life projects in C or Python.
